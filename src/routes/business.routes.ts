@@ -1,5 +1,5 @@
-import { Router } from "express";
+import { Router } from 'express';
 
-const businessRoutes = Router()
+export const businessRoutes = Router();
 
-export default businessRoutes
+businessRoutes.get('/', (req, res) => {});
