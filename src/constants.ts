@@ -1,0 +1,1 @@
+export const APIBaseURL: string = "https://data.lacity.org/resource/6rrh-rzua.json";
