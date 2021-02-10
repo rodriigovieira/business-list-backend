@@ -6,7 +6,7 @@ import AppError from './errors/AppError';
 
 import routes from './routes';
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3001;
 
 const app = express();
 
